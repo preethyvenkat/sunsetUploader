@@ -1,0 +1,13 @@
+{
+  "name": "sunset-uploader",
+  "version": "1.0.0",
+  "description": "Lambda to upload sunset.jpeg with pre-signed URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "jq": "*"
+  }
+}

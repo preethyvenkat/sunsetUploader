@@ -1,0 +1,4 @@
+{
+  "BUCKET": "joy-with-sunsets-1122",
+  "KMS_KEY_ID": "alias/sunset-key-role"
+}
